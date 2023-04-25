@@ -1,4 +1,4 @@
-# Computer Integrated Surgery II at JHU. Spring 2023
+# CIS II at JHU. Spring 2023
 
 > * Project: Quality Assurance of Radiotherapy using Scattered X-ray
 > * Students: Tatiana Kashtanova, Samuel Ydenberg
