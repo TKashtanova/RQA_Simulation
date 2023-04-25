@@ -9,7 +9,7 @@
 
 ***Abstract***
 
-The project objective is to implement a quality assurance method for radiation therapy using scattered x-ray registration allowing to verify dose distribution in a medium externally and in real time. First, using the gDPM Monte Carlo simulation package [1,2] developed by Dr. Jia and his team, we obtain the coordinates, momentum direction and energy of the photons scattered in a phantom after a MV x-ray beam has passed through it. Then, using MATLAB, we register the scattered photons on the sensor area of a photon counting detector with and without a 3D collimator positioned in front of it. Finally, we relate the recorded detector signal to the delivered radiation dose and analyze the quality assurance method feasibility. The procedures are tested on both homogeneous and heterogeneous phantoms.
+The project objective is to implement a quality assurance method for radiation therapy using scattered x-ray registration allowing to verify dose distribution in a medium externally and in real time. First, using the gDPM Monte Carlo simulation package [1,2] developed by Dr. Jia and his team, we obtain the coordinates, momentum direction and energy of the photons scattered in a phantom after a MV x-ray beam has passed through it. Then, using MATLAB, we register the scattered photons on the sensor area of a photon counting detector with and without a 3D collimator positioned in front of it. Finally, we relate the recorded detector signal to the delivered radiation dose and analyze the quality assurance method feasibility. The procedures are carried out on both homogeneous and heterogeneous phantoms.
 
 
 ## References
