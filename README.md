@@ -12,7 +12,7 @@
 In this project, we implement a quality assurance method for radiation therapy using scattered x-ray registration allowing to verify dose distribution in a phantom/patient externally and in real time. First, using the gDPM Monte Carlo simulation package [1,2], we obtain the coordinates, momentum direction and energy of the photons scattered in a phantom after a MV x-ray beam has passed through it. Then, using MATLAB, we register the scattered photons on the sensor area of a photon counting detector with and without a 3D collimator positioned in front of it. Finally, we relate the recorded detector signal to the delivered radiation dose and analyze the quality assurance method feasibility. The procedures are carried out on both homogeneous and heterogeneous phantoms.
 
 
-## References
+***References***
 
 [1] Jia, X. & Jiang, S.B. (2011). gDPM v2.0. A GPU-based Monte Carlo simulation package for radiotherapy dose calculation. The Center for Advanced Radiotherapy Technologies (CART), UCSD.
 
